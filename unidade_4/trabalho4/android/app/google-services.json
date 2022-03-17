@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291772911745",
+    "project_id": "trabalho-mobile-9431a",
+    "storage_bucket": "trabalho-mobile-9431a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291772911745:android:33277c6f0ff2a52012fd80",
+        "android_client_info": {
+          "package_name": "br.com.furb.trabalho_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291772911745-tkaj4r7ndpmk3k98hfedqqvu8jthjlf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsN-d1QQLGrjJCR4qVaVvlbnnV0q6f6YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291772911745-tkaj4r7ndpmk3k98hfedqqvu8jthjlf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
